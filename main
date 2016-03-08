@@ -1,0 +1,15 @@
+//Adding Numbers
+//Programmer - Ramachandra Shyanaka
+
+#include <iostream> 
+using namespace std;
+
+int main(){
+    double i,x,y;
+    cout << "Please enter your forst number here : " << endl;
+    cin >> i;
+    cout <<"What is the second number :"<<endl;
+    cin >> x;
+    cout<<"total\t"<<i+x<<endl;
+    
+}
